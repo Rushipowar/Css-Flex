@@ -1,0 +1,20 @@
+CSS Flexbox:
+
+   - One-Dimensional Layout: Flexbox is designed for one-dimensional layout, either in a row or column. 
+   It's excellent for arranging items along a single axis.
+
+   - Content-Centered: Flexbox is great for centering content vertically or horizontally within a container.
+
+   - Unequal Distribution: Flexbox allows you to distribute space among items unevenly, making it ideal for situations 
+   where items have different sizes and need to occupy varying amounts of space.
+
+CSS Grid:
+
+   - Two-Dimensional Layout: Grid layout is designed for two-dimensional layouts, providing control over rows and 
+   columns simultaneously. This makes it perfect for creating grid-like structures.
+
+   - Grid Structure: Grid allows you to define both rows and columns explicitly, enabling precise placement of items 
+   within the grid.
+
+   - Equal Distribution: Grid enforces equal distribution of space among rows and columns, making it suitable for 
+   cases where you want a uniform grid structure.

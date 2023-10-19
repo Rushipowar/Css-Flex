@@ -1,0 +1,25 @@
+1. Justify-content :-
+        This Property is used to define how to extra space within the a flex container is distributed
+        along the main axis (horizontal).
+
+Values:- flex-start, flex-end, center, space-between, space-around, space-evenly.
+
+3. gap:-
+       This property is useful for creating flexible and responsive layouts by defining the gaps between the child 
+       elements in a flex container
+
+2. Align-items :-
+        This Property controls how items are aligned along the cross-axis (perpendicular to main axis)
+
+Values:- flex-start, flex-end, center, baseline, stretch.
+
+4. Flex-directoin :-
+        This Property determines the direction in which flex items are placed within the flex container.
+
+Values:- row, row-reverse, column, column-reverse.
+
+5. Flex-wrap :-
+        This Property controls whether flex items should wrap to next line when they dont fit within 
+        the flex container main axis.
+
+Values:- nowrap, wrap, wrap-reverse.

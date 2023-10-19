@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Center the Div with Flexbox</title>
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+        .main-div{
+            width: 100vw; /* (Mendatory to define) */
+            height: 100vh; /* (Mendatory to define) */
+            display: flex;
+            justify-content: center; /* X(Main-direction) */
+            align-items: center; /* Y(Cross-direction) */
+        }
+        .center-div{
+            width: 200px;
+            height: 200px;
+            background-color: rgb(0, 255, 34); 
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Parent and Child Div -->
+    <div class="main-div">
+        <div class="center-div">
+
+        </div>
+    </div>
+</body>
+</html>
